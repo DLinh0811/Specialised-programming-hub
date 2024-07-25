@@ -1,3 +1,4 @@
+// package block1.ThrowTheBall;
 public class ThrowTheBall {
     public static void main(String[] args) {
         int pass = timesThrown(5, 3, 2);
