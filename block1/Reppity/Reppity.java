@@ -3,7 +3,7 @@ public class Reppity {
 
     public static void main(String[] args) {
         int max_length = longestRep("ABCDEXXXYYYZZZABCDEZZZYYYXXX");
-        System.out.println(max_length);
+        // System.out.println(max_length);
     }
 
     public static int longestRep(String input){

@@ -2,7 +2,7 @@
 public class Inchworm {
     public static void main(String[] args) {
         int no_leaves = lunchtime(20, 3, 7);
-        System.out.println(no_leaves);
+        // System.out.println(no_leaves);
     } 
 
     public static int lunchtime(int branch, int rest, int leaf) {
