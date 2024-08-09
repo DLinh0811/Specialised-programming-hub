@@ -3,8 +3,8 @@ import java.util.Collections;
 
 public class ChangingString {
     public static void main(String[] args) {
-        String A = "ba";
-        String B = "ab";
+        String A = "aa";
+        String B = "aa";
         int K  = 2;
         int result = distance(A, B, K);
         System.out.println(result);
