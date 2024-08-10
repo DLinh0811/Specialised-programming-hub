@@ -1,0 +1,80 @@
+*******************
+* Group practice  * 
+*******************
+
+
+List the problems you attempted, your scores so far for each problem, and which Java API Classes and methods you used to solve each problem.
+
+Eg. SlowKeyBoard: 90 out of 90   
+                   ArrayList (size, add, get), Arrays.sort
+
+Problem1 ThrowTheBall: 100 out of 100
+ 
+while(true)
+
+
+Problem2 Reppity: 100 out of 100
+substring(start, end).length()
+.contains
+
+Problem3 MooingCows
+Integer.MAX_VALUE
+String.charAt
+ArrayList
+
+-- Reflection -- 
+Were the problems attempted in the lab  easy/medium/challenging? 
+After this practice, how confident you fill when solving this problem type? 
+What else did you learn from the group practice? 
+
+The problems arev medium, somtimes challenging
+I am not that confident
+
+I can have more ideas from different people
+
+
+
+
+
+
+************************
+* Individual practice  *
+************************
+
+List the problems you attempted, your scores so far for each problem, and which Java API Classes and methods you used to solve each problem.
+
+FracCount: 7 out 100
+                    
+    HashMap (containsKey, put, get), ArrayList (size, add, get, remove)
+
+ 
+
+Problem3 ChangingStrings 100 out of 100
+ArrayList(set, size, get)
+Collections(sort, reverseOrder())
+
+Problem4 PartySeats 100 out of 100
+
+String(split)
+Arrays.toString
+ArrayList(add)
+Collections(Sort)
+
+
+
+
+
+-- Reflection -- 
+Explain the rationale behind your choice of individual practice.
+Which area you focused on improving (eg. speed, fluency, algorithmic design,  coding)?
+What are your goals for the next block of practice? 
+
+
+I did the Alternate Colors but it failed since it took to long to run
+I focused on algorithm design and coding
+I want to have more accurate solve and think more carefully
+
+
+
+
+
